@@ -66,4 +66,5 @@ When **Disable dragging** is enabled, the cat becomes click-through so it never 
 Neko Companion is built to stay lightweight. It uses a simple 2D canvas with hardware GPU acceleration disabled by default to avoid spawning a heavy GPU process, keeping memory and CPU usage low.
 
 ### How do I update to a new version?
+
 Running copies check for updates automatically on startup and periodically in the background. You can also right-click the cat or tray icon and click **Check for updates** at any time.
